@@ -1,2 +1,9 @@
 services:
-  
+  warehouse-en:
+    image: ""
+  storage-en:
+    image: ""
+  warehouse-th:
+    image: ""
+  storage-th:
+    image: ""
